@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 66,
+    "articles": [
+        { 
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Lim Hui Jie",
+            "title": "Hong Kong stocks tumble 2%, dragged by property and tech; Asia markets mixed - CNBC",
+            "description": "Asia-Pacific markets were mixed as Hong Kong stocks led losses in the region,",
+            "url": "https://www.cnbc.com/2023/07/18/asia-markets.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/104666517-GettyImages-622326452-australia.jpg?v=1689637822&w=1920&h=1080",
+            "publishedAt": "2023-07-18T05:32:00Z",
+            "content": "Asia-Pacific markets were mixed as Hong Kong stocks led losses in the region, tumbling by 2% dragged by real estate and technology stocks.\r\nMainland Chinese markets were also in negative territory, w… [+1233 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "McDonald's workers speak out over abuse at fast food chain – BBC News - BBC News",
+            "description": null,
+            "url": "https://www.youtube.com/watch?v=8iVtHvgKJEw",
+            "urlToImage": null,
+            "publishedAt": "2023-07-18T05:06:38Z",
+            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Elon Musk says Twitter ad revenue down 50% - MSNBC",
+            "description": "And Threads sees a drop off in engagement after a promising launch. Kara Swisher breaks it all down.» Subscribe to MSNBC: http://on.msnbc.com/SubscribeTomsnb...",
+            "url": "https://www.youtube.com/watch?v=_LHDsY0szT0",
+            "urlToImage": "https://i.ytimg.com/vi/_LHDsY0szT0/maxresdefault.jpg",
+            "publishedAt": "2023-07-18T04:15:01Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Emily Bary",
+            "title": "Cathie Wood's ARK funds dump millions more in Tesla and Coinbase stocks - MarketWatch",
+            "description": "ARK funds scoop up shares of Twilio, Meta",
+            "url": "https://www.marketwatch.com/story/cathie-woods-ark-funds-dump-26-million-more-in-coinbase-stock-shed-13-million-more-of-tesla-shares-ff442ece",
+            "urlToImage": "https://images.mktw.net/im-818918/horizontal",
+            "publishedAt": "2023-07-18T03:20:00Z",
+            "content": "Funds associated with Cathie Woods ARK Investment continued to cull shares of Coinbase Global Inc. and Tesla Inc. on Monday, according to recent trade disclosures. The ARK Fintech Innovation ETF \r\n A… [+2063 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Liangping Gao, Ellen Zhang, Kevin Yao",
+            "title": "Will China ever get rich? A new era of much slower growth dawns - Reuters",
+            "description": "China is entering an era of much slower economic growth, raising a daunting prospect: it may never get rich.",
+            "url": "https://www.reuters.com/world/china/will-china-ever-get-rich-new-era-much-slower-growth-dawns-2023-07-18/",
+            "urlToImage": "https://www.reuters.com/resizer/tuEzxIFiHD_0nxc6A5XSGuo9AhE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FWVETZLZ2NOPZGVBEO4OPSVMN4.jpg",
+            "publishedAt": "2023-07-18T02:31:24Z",
+            "content": "BEIJING, July 18 (Reuters) - China is entering an era of much slower economic growth, raising a daunting prospect: it may never get rich.\r\nWhether the world's second-largest economy chugs ahead at 3-… [+6628 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": ", USA TODAY",
+            "title": "Opill cost, coverage: Over-the-counter birth control pill explained - USA TODAY",
+            "description": "Experts say the progestin-only pill will increase access to people who may not have access to the health care system for a prescription.",
+            "url": "https://www.usatoday.com/story/news/health/2023/07/15/opill-cost-coverage-over-the-counter-birth-control-pill-explained/70410053007/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2023/05/10/USAT/a3508332-3220-49f8-be8b-0ad42f631f34-opill.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200",
+            "publishedAt": "2023-07-18T02:06:42Z",
+            "content": "The Food and Drug Administration this week approved the countrys first birth control pill to be sold to Americans over the counter without a prescription 50 years after it first appeared on the marke… [+5876 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Raja Razek, Gregory Wallace, Brad Parks",
+            "title": "Emergency evacuation slide from United flight falls into neighborhood near Chicago O’Hare International Airport - CNN",
+            "description": "A United Airlines Boeing 767 plane lost its emergency evacuation slide in mid-air Monday – and it ended up in the backyard of a home near Chicago’s O’Hare International Airport, officials and a witness said.",
+            "url": "https://www.cnn.com/travel/article/chicago-united-plane-emergency-slide/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230717212848-02-chicago-airliner-slide-071723.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-07-18T01:43:00Z",
+            "content": "A United Airlines Boeing 767 plane lost its emergency evacuation slide in mid-air Monday and it ended up in the backyard of a home near Chicagos OHare International Airport, officials and a witness s… [+1408 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Goldman Cuts US Recession Risk to 20% - Bloomberg Television",
+            "description": "The US economy has a better chance of avoiding a recession in the next 12 months following recent positive data on economic activity and inflation, according...",
+            "url": "https://www.youtube.com/watch?v=1j18Gd296nw",
+            "urlToImage": "https://i.ytimg.com/vi/1j18Gd296nw/hqdefault.jpg",
+            "publishedAt": "2023-07-18T00:54:30Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Eli Tan",
+            "title": "Threads follows Twitter in limiting number of posts that users can see - The Washington Post",
+            "description": "Threads had a wildly successful launch amid a backlash against Twitter over limits on how many posts could be viewed. Now Threads is doing the same thing.",
+            "url": "https://www.washingtonpost.com/technology/2023/07/17/threads-limits-twitter/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CQISH7PN5FO2MZMFW5NTCHLHEU.jpg&w=1440",
+            "publishedAt": "2023-07-18T00:28:51Z",
+            "content": "Comment on this story\r\nComment\r\nMetas new social media app Threads says it will limit the amount of posts some users can see the same action that rival social network Twitter took earlier this month.… [+1974 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Medora Lee",
+            "title": "Rejection rate jumps for Americans looking for a loan, Fed says - USA TODAY",
+            "description": "The rejection rate for Americans looking for a loan hits a 5-year high, Fed data show. Banks are turning cautious as rates rise and the economy slows.",
+            "url": "https://www.usatoday.com/story/money/personalfinance/2023/07/17/loan-rejection-rate-jumps-fed/70422586007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/images/motleyfool/2023/06/20/USAT/70336713007-delinquency-autos-ny-fed-6-16-23.png?crop=3390,1915,x0,y0&width=3200&height=1808&format=pjpg&auto=webp",
+            "publishedAt": "2023-07-18T00:17:08Z",
+            "content": "Just as Americans may be looking for a loan to stay afloat, it may be harder to get one. \r\nThe rejection rate for people applying for credit jumped to 21.8%, up from 17.3% in February and the highest… [+2747 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KGUN"
+            },
+            "author": "KGUN 9 On Your Side",
+            "title": "Power outage affecting more than 12,000 on east side, in Foothills - KGUN 9 Tucson News",
+            "description": "Hail and rain affecting Tucson metropolitan area",
+            "url": "https://www.kgun9.com/news/local-news/more-than-7-400-without-power-on-east-side-in-foothills-after-powerful-storm",
+            "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/d1e8019/2147483647/strip/true/crop/1280x672+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F0a%2F56%2Fcfe5f65c4762b650393eeea47db5%2Fjuly-17-tucson-electric-power-outage.jpg",
+            "publishedAt": "2023-07-18T00:07:00Z",
+            "content": "TUCSON, Ariz. (KGUN) The Tucson Electric Power (TEP) is continuing to fix connections to homes. \r\n\"As of 10 p.m., we have about 11,000 customers still out of service,\" TEP Supervisor of Media Relatio… [+1638 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": null,
+            "title": "Handheld Gaming Consoles Will Soon Require Replaceable Batteries - CNET",
+            "description": "A new EU law will require portable consoles like the Steam Deck and Nintendo Switch to have batteries you can replace yourself.",
+            "url": "https://www.cnet.com/tech/gaming/handheld-gaming-consoles-will-soon-require-replaceable-batteries/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/b18b5c83c60a5afd6876ed2c9080c45272adc704/hub/2023/02/16/05f5c5d9-1695-4536-a6e1-d52356ba6255/nintendo-switch-oled.png?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2023-07-17T23:52:00Z",
+            "content": "The next generation of handheld gaming consoles could all have batteries you can replace yourself, thanks to a new regulation in the European Union.\r\nThe European Council adopted the rule on July 10,… [+1832 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Yeo Boon Ping",
+            "title": "CNBC Daily Open: The long-awaited recession might not arrive - CNBC",
+            "description": "Analysts think second-quarter S&P 500 earnings will be more than 7% lower year on year. But that might be the floor. And the economy is looking up.",
+            "url": "https://www.cnbc.com/2023/07/18/stock-markets-the-long-awaited-recession-might-not-arrive.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107272684-1689636809373-gettyimages-1536945184-dscf6106_z95khvgn.jpeg?v=1689637051&w=1920&h=1080",
+            "publishedAt": "2023-07-17T23:37:31Z",
+            "content": "This report is from today's CNBC Daily Open, our new, international markets newsletter. CNBC Daily Open brings investors up to speed on everything they need to know, no matter where they are. Like wh… [+3858 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nasdaq"
+            },
+            "author": null,
+            "title": "Texas power use hits record high as heatwave lingers - Nasdaq",
+            "description": "Demand for power in Texas hit a record high on Monday as homes and businesses kept air conditioners cranked up to escape a heatwave.",
+            "url": "https://www.nasdaq.com/articles/texas-power-use-hits-record-high-as-heatwave-lingers-0",
+            "urlToImage": "/sites/acquia.prod/files/2023-07-17T123704Z_1_FC1_RTRLXPP_2_LYNXPACKAGER.JPG",
+            "publishedAt": "2023-07-17T23:25:00Z",
+            "content": "Adds details, background\r\nJuly 17 (Reuters) - Demand for power in Texas hit a record high on Monday as homes and businesses kept air conditioners cranked up to escape a heatwave.\r\nThe Electric Reliab… [+1984 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Olafimihan Oshin",
+            "title": "Ford cuts prices on electric pickups amid battle with Tesla - The Hill",
+            "description": "Ford Motor Co. has cut the prices on its line of electric vehicle (EV) pickup trucks in an effort to challenge EV market leader Tesla.  CNBC reported on Monday that the Detroit-based automaker said the reasoning behind the price reduction is to boost producti…",
+            "url": "https://thehill.com/policy/technology/4102416-ford-cuts-prices-on-electric-pickups-amid-battle-with-tesla/",
+            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/02/4ad7d788d7e34e8388f046aa8415a271.jpg?w=1280",
+            "publishedAt": "2023-07-17T23:10:00Z",
+            "content": "Skip to content\r\nFord Motor Co. has cut the prices on its line of electric vehicle (EV) pickup trucks in an effort to challenge EV market leader Tesla. \r\nCNBC reported on Monday that the Detroit-base… [+1758 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "fox8.com"
+            },
+            "author": "Alyssa Mueller, Jeremy Tanner",
+            "title": "Sam’s Club announces $20 membership for teachers – here’s how to get one - WJW FOX 8 News Cleveland",
+            "description": "For a limited time, Sam’s Club is slashing the cost of a membership for educators before the new school year starts.",
+            "url": "https://fox8.com/news/sams-club-announces-20-membership-for-teachers-heres-how-to-get-one/",
+            "urlToImage": "https://fox8.com/wp-content/uploads/sites/12/2023/07/AP18054767902951.jpg?w=1280",
+            "publishedAt": "2023-07-17T23:06:00Z",
+            "content": "KANSAS CITY, Mo. (WDAF) Sams Club has announced a new membership deal for educators before the next school year.\r\nThe retailer is offering a limited-time membership offer for teachers and administrat… [+1161 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ashley Strickland",
+            "title": "Virgin Galactic reveals three passengers who will be aboard its first space tourism flight - CNN",
+            "description": "The first Olympian and the first mother-daughter duo to venture to space will be aboard Virgin Galactic’s inaugural private astronaut mission in August.",
+            "url": "https://www.cnn.com/2023/07/17/world/virgin-galactic-private-astronaut-crew-scn/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230717113605-01-virgin-galactic-first-space-tourism-crew.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-07-17T23:03:00Z",
+            "content": "Editors note: Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nThe first Olympian and the first mother-… [+2897 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WPTV.com"
+            },
+            "author": "Jay Cashmere",
+            "title": "Port St Lucie could see home prices sharply decline over 12 months, report shows - WPTV News Channel 5 West Palm",
+            "description": "Factors include amount of mortgages, school ratings, interest rates, potential tax assessments.",
+            "url": "https://www.wptv.com/news/region-st-lucie-county/port-st-lucie/template-port-st-lucie",
+            "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/a5e73b1/2147483647/strip/true/crop/1499x787+140+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F61%2Fab%2F36e84fd44d448fec0adc7357faaf%2Fhomes-in-port-st-lucie-july-17-2023.jpg",
+            "publishedAt": "2023-07-17T22:57:00Z",
+            "content": "PORT ST. LUCIE, Fla. Florida's hot housing market seems to be trending in another direction in one city on the Treasure Coast if you read a new report from CoreLogic.\r\nThe data suggest Port St Lucie … [+2399 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Daniel Wiessner",
+            "title": "Court rules against Uber in major win for California workers - Reuters",
+            "description": "Uber Technologies Inc <a href=\"https://www.reuters.com/markets/companies/UBER.N\" target=\"_blank\">(UBER.N)</a> must face a California lawsuit claiming it should have covered UberEats drivers' work-related expenses, the state's top court said on Monday, in what…",
+            "url": "https://www.reuters.com/legal/court-rules-against-uber-major-win-california-workers-2023-07-17/",
+            "urlToImage": "https://www.reuters.com/resizer/1gKqmmSDud116d5ZJaQQIKFPeqw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KNSGEFVWHZKYVIT3ZIWDHTXMOM.jpg",
+            "publishedAt": "2023-07-17T22:49:00Z",
+            "content": "July 17 (Reuters) - Uber Technologies Inc (UBER.N) must face a California lawsuit claiming it should have covered UberEats drivers' work-related expenses, the state's top court said on Monday, in wha… [+3229 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Council members opposing BGE's plan to increase rates for consumers - WMAR-2 News",
+            "description": null,
+            "url": "https://www.youtube.com/watch?v=7cTqfvtf5zI",
+            "urlToImage": null,
+            "publishedAt": "2023-07-17T22:43:09Z",
+            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+        }
+    ]
+}
